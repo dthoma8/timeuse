@@ -1,240 +1,239 @@
-[
-    {
-        "start_minute": 1,
-        "stop_minute": 480,
-        "time": "10/15/2017",
-        "note": "Cool down period.",
-        "index": 0
-    },
-    {
-        "start_minute": 481,
-        "stop_minute": 900,
-        "time": "10/31/2017",
-        "note": "Back to work!",
-        "index": 1
-    },
-    {
-        "start_minute": 901,
-        "stop_minute": 1379,
-        "time": "11/15/2017",
-        "note": "Back to work!",
-        "index": 2
-    },
-    {
-        "start_minute": 1380,
-        "stop_minute": 1859,
-        "time": "11/30/2017",
-        "note": "Beginning of the Holiday Season",
-        "index": 3
-    },
-    {
-        "start_minute": 1860,
-        "stop_minute": 2339,
-        "time": "12/15/2017",
-        "note": "Beginning of the Holiday Season",
-        "index": 4
-    },
-    {
-        "start_minute": 2340,
-        "stop_minute": 2819,
-        "time": "12/31/2017",
-        "note": "Holiday Season is in full swing",
-        "index": 5
-    },
-    {
-        "start_minute": 2820,
-        "stop_minute": 3659,
-        "time": "01/15/2018",
-        "note": "Back to work!",
-        "index": 6
-    },
-    {
-        "start_minute": 3660,
-        "stop_minute": 4199,
-        "time": "01/31/2018",
-        "note": "Back to work!",
-        "index": 7
-    },
-    {
-        "start_minute": 4200,
-        "stop_minute": 4739,
-        "time": "02/15/2018",
-        "note": "Back to work!",
-        "index": 8
-    },
-    {
-        "start_minute": 4740,
-        "stop_minute": 5219,
-        "time": "02/28/2018",
-        "note": "Hiring Season?",
-        "index": 9
-    },
-    {
-        "start_minute": 5220,
-        "stop_minute": 5759,
-        "time": "03/15/2018",
-        "note": "Hiring Season?",
-        "index": 10
-    },
-    {
-        "start_minute": 5760,
-        "stop_minute": 6359,
-        "time": "03/31/2018",
-        "note": "Hiring Season?",
-        "index": 11
-    },
-    {
-        "start_minute": 6360,
-        "stop_minute": 7019,
-        "time": "04/15/2018",
-        "note": "Spring weather?",
-        "index": 12
-    },
-    {
-        "start_minute": 7020,
-        "stop_minute": 7709,
-        "time": "04/30/2018",
-        "note": "Spring weather?",
-        "index": 13
-    },
-    {
-        "start_minute": 7710,
-        "stop_minute": 8489,
-        "time": "05/15/2018",
-        "note": "Spring weather?",
-        "index": 14
-    },
-    {
-        "start_minute": 8490,
-        "stop_minute": 9689,
-        "time": "05/31/2018",
-        "note": "Summer holiday season!",
-        "index": 15
-    },
-    {
-        "start_minute": 9690,
-        "stop_minute": 10409,
-        "time": "06/15/2018",
-        "note": "Summer holiday season!",
-        "index": 16
-    },
-    {
-        "start_minute": 10410,
-        "stop_minute": 10889,
-        "time": "06/30/2018",
-        "note": "Summer Holiday Season!",
-        "index": 17
-    },
-    {
-        "start_minute": 10890,
-        "stop_minute": 11639,
-        "time": "07/15/2018",
-        "note": "Summer Holiday season!",
-        "index": 18
-    },
-    {
-        "start_minute": 11640,
-        "stop_minute": 12299,
-        "time": "07/31/2018",
-        "note": "New hire surge?",
-        "index": 19
-    },
-    {
-        "start_minute": 12300,
-        "stop_minute": 13019,
-        "time": "08/15/2018",
-        "note": "New hire surge?",
-        "index": 20
-    },
-    {
-        "start_minute": 13020,
-        "stop_minute": 13499,
-        "time": "08/31/2018",
-        "note": "New hire surge?",
-        "index": 21
-    },
-    {
-        "start_minute": 13500,
-        "stop_minute": 14219,
-        "time": "09/15/2018",
-        "note": "Closing in on FY End for Gov.Brace for impact.",
-        "index": 22
-    },
-    {
-        "start_minute": 14220,
-        "stop_minute": 14699,
-        "time": "09/30/2018",
-        "note": "Closing in on FY End for Gov.Brace for impact.",
-        "index": 23
-    },
-    {
-        "start_minute": 14700,
-        "stop_minute": 15299,
-        "time": "10 / 15 / 2018",
-        "note": "Cool down period.",
-        "index": 24
-    },
-    {
-        "start_minute": 15300,
-        "stop_minute": 15779,
-        "time": "10 / 31 / 2018",
-        "note": "Back to work!",
-        "index": 25
-    },
-    {
-        "start_minute": 15780,
-        "stop_minute": 16259,
-        "time": "11/15/2018",
-        "note": "Back to work!",
-        "index": 26
-    },
-    {
-        "start_minute": 16260,
-        "stop_minute": 16829,
-        "time": "11/31/2018",
-        "note": "Beginning of the Holiday Season",
-        "index": 27
-    },
-    {
-        "start_minute": 16830,
-        "stop_minute": 17309,
-        "time": "12/15/2018",
-        "note": "Beginning of the Holiday Season",
-        "index": 28
-    },
-    {
-        "start_minute": 17310,
-        "stop_minute": 17789,
-        "time": "12/31/2018",
-        "note": "Holiday Season is in full swing",
-        "index": 29
-    },
-    {
-        "start_minute": 17790,
-        "stop_minute": 18269,
-        "time": "01/15/2019",
-        "note": "Back to work!",
-        "index": 30
-    },
-    {
-        "start_minute": 18270,
-        "stop_minute": 18929,
-        "time": "01/31/2019",
-        "note": "Back to work!",
-        "index": 31
-    },
-    {
-        "start_minute": 18930,
-        "stop_minute": 19409,
-        "time": "02/15/2019",
-        "Note": "x",
-        "index": 32
-    },
-    {
-        "start_minute": 19410,
-        "stop_minute": 19890,
-        "time": "02/28/2019",
-        "note": "x",
-        "index": 33
-    }
+[{
+    "start_minute": 1,
+    "stop_minute": 481,
+    "time": '10/15/2017',
+    "index": 1,
+    "note": "Cool down period."
+},
+{
+    "start_minute": 481,
+    "stop_minute": 1057,
+    "time": '10/31/2017',
+    "index": 2,
+    "note": "Back to work!"
+},
+{
+    "start_minute": 1057,
+    "stop_minute": 1585,
+    "time": '11/15/2017',
+    "index": 3,
+    "note": "Back to work!"
+},
+{
+    "start_minute": 1585,
+    "stop_minute": 2113,
+    "time": '11/30/2017',
+    "index": 4,
+    "note": "Beginning of the Holiday Season"
+},
+{
+    "start_minute": 2113,
+    "stop_minute": 2641,
+    "time": '12/15/2017',
+    "index": 5,
+    "note": "Beginning of the Holiday Season"
+},
+{
+    "start_minute": 2641,
+    "stop_minute": 3121,
+    "time": '12/31/2017',
+    "index": 6,
+    "note": "Holiday Season is in full swing"
+},
+{
+    "start_minute": 3121,
+    "stop_minute": 3649,
+    "time": '01/15/2018',
+    "index": 7,
+    "note": "Back to work!"
+},
+{
+    'start_minute': 3649,
+    'stop_minute': 4225,
+    'time': '01/31/2018',
+    'index': 8,
+    "note": "Back to work!"
+},
+{
+    'start_minute': 4225,
+    'stop_minute': 4753,
+    'time': '02/15/2018',
+    'index': 9,
+    "note": "Back to work!"
+},
+{
+    'start_minute': 4753,
+    'stop_minute': 5185,
+    'time': '02/28/2018',
+    'index': 10,
+    "note": "Hiring Season?"
+},
+{
+    'start_minute': 5185,
+    'stop_minute': 5713,
+    'time': '03/15/2018',
+    'index': 11,
+    "note": "Hiring Season?"
+},
+{
+    'start_minute': 5713,
+    'stop_minute': 6241,
+    'time': '03/31/2018',
+    'index': 12,
+    "note": "Hiring Season?"
+},
+{
+    'start_minute': 6241,
+    'stop_minute': 6721,
+    'time': '04/15/2018',
+    'index': 13,
+    "note": "Spring weather?"
+},
+{
+    'start_minute': 6721,
+    'stop_minute': 7249,
+    'time': '04/30/2018',
+    'index': 14,
+    "note": "Spring weather?"
+},
+{
+    'start_minute': 7249,
+    'stop_minute': 7777,
+    'time': '05/15/2018',
+    'index': 15,
+    "note": "Spring weather?"
+},
+{
+    'start_minute': 7777,
+    'stop_minute': 8353,
+    'time': '05/31/2018',
+    'index': 16,
+    "note": "Summer holiday season!"
+},
+{
+    'start_minute': 8353,
+    'stop_minute': 8881,
+    'time': '06/15/2018',
+    'index': 17,
+    "note": "Summer holiday season!"
+},
+{
+    'start_minute': 8881,
+    'stop_minute': 9361,
+    'time': '06/30/2018',
+    'index': 18,
+    "note": "Summer Holiday Season!"
+},
+{
+    'start_minute': 9361,
+    'stop_minute': 9841,
+    'time': '07/15/2018',
+    'index': 19,
+    "note": "Summer Holiday season!"
+},
+{
+    'start_minute': 9841,
+    'stop_minute': 10417,
+    'time': '07/31/2018',
+    'index': 20,
+    "note": "New hire surge?"
+},
+{
+    'start_minute': 10417,
+    'stop_minute': 10945,
+    'time': '08/15/2018',
+    'index': 21,
+    "note": "New hire surge?"
+},
+{
+    'start_minute': 10945,
+    'stop_minute': 11521,
+    'time': '08/31/2018',
+    'index': 22,
+    "note": "New hire surge?"
+},
+{
+    'start_minute': 11521,
+    'stop_minute': 12001,
+    'time': '09/15/2018',
+    'index': 23,
+    "note": "Closing in on FY End for Gov.Brace for impact."
+},
+{
+    'start_minute': 12001,
+    'stop_minute': 12481,
+    'time': '09/30/2018',
+    'index': 24,
+    "note": "Closing in on FY End for Gov.Brace for impact."
+},
+{
+    'start_minute': 12481,
+    'stop_minute': 13009,
+    'time': '10/15/2018',
+    'index': 25,
+    "note": "Cool down period."
+},
+{
+    'start_minute': 13009,
+    'stop_minute': 13585,
+    'time': '10/31/2018',
+    'index': 26,
+    "note": "Back to work!"
+},
+{
+    'start_minute': 13585,
+    'stop_minute': 14113,
+    'time': '11/15/2018',
+    'index': 27,
+    "note": "Back to work!"
+},
+{
+    'start_minute': 14113,
+    'stop_minute': 14641,
+    'time': '11/30/2018',
+    'index': 28,
+    "note": "Beginning of the Holiday Season"
+},
+{
+    'start_minute': 14641,
+    'stop_minute': 15121,
+    'time': '12/15/2018',
+    'index': 29,
+    "note": "Beginning of the Holiday Season"
+},
+{
+    'start_minute': 15121,
+    'stop_minute': 15649,
+    'time': '12/31/2018',
+    'index': 30,
+    "note": "Holiday Season is in full swing"
+},
+{
+    'start_minute': 15649,
+    'stop_minute': 16177,
+    'time': '01/15/2019',
+    'index': 31,
+    "note": "Back to work!"
+},
+{
+    'start_minute': 16177,
+    'stop_minute': 16753,
+    'time': '01/31/2019',
+    'index': 32,
+    "note": "Back to work!"
+},
+{
+    'start_minute': 16753,
+    'stop_minute': 17233,
+    'time': '02/15/2019',
+    'index': 33,
+    "note": "Back to work!"
+},
+{
+    'start_minute': 17233,
+    'stop_minute': array([17281]),
+    'time': '02/28/2019',
+    'index': 34,
+    "note": "Hiring Season?"
+}
 ]
